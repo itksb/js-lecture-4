@@ -1,11 +1,22 @@
 /**
- * Модуль "Практическая работа с использованием JS №2"
  *
- * Т.З.:
- * Сделать приложение на js, можно браузерное можно консольное (запуск через nodejs), которое при запуске
- * запрашивает ваше имя и выводит его в обратном порядке. к примеру вход: имя, выход: ямИ
- */
+ # OOP SOLID principles with Javascript (lecture-4)
+ The repository contains a tutorial demonstrating OOP principles with a Javascript implementation.
+ Demonstrates the principles of SOLID.
 
+ ## Description. Module "Practical work using JS No. 2"
+ Make a cross-platform application in the Javascript language, which, when launched, asks for your name and displays it in reverse order.
+
+ ### Example
+ Input data
+ ```
+ sergius
+ ```
+ Output data
+ ```
+ suigreS
+ ```
+ */
 (function () {
 
     class NotImplementedError extends Error {

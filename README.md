@@ -18,6 +18,14 @@ Output data
 suigreS
 ```
 
+### Implementation
+
+See index.js
+
+p.s. 
+The Javascript modules in this example are intentionally not used for educational purposes.
+
+
 ### License
 
 MIT
